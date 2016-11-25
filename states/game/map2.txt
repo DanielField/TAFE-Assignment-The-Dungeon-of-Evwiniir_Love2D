@@ -1,0 +1,15 @@
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 7 T T T T T T T T T T T T T T T T T T T T T T T T 8 1
+1 L 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 R 1
+1 L 0 W W W W W W W W W W W W W W W W W W W W W W 0 R 1
+1 L 0 W | 0 W W 0 0 0 W 0 W s W 0 0 0 W 0 0 0 0 W 0 R 1
+1 L 0 W W 0 W 0 0 W 0 0 0 0 0 W 0 W 0 W W W W 0 W 0 R 1
+1 L 0 W 0 0 W 0 W W 0 0 W W W W 0 W 0 W F 0 0 0 W 0 R 1
+1 L 0 W 0 W W 0 W W W 0 W 0 0 0 0 W 0 W G G G G W 0 R 1
+1 L 0 W 0 0 W 0 W 0 0 0 W W W W W W 0 0 0 0 0 0 W 0 R 1
+1 L 0 W W 0 0 0 0 0 0 0 0 0 0 0 0 W W W W W W 0 W 0 R 1
+1 L 0 W 0 0 0 0 0 0 W 0 W 0 0 0 0 0 0 0 0 0 0 0 W 0 R 1
+1 L 0 W W W W W W W W W W W W W W W W W W W W W W 0 R 1
+1 L 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 R 1
+1 5 B B B B B B B B B B B B B B B B B B B B B B B B 6 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
