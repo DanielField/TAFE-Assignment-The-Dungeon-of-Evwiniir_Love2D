@@ -8,4 +8,4 @@ There are a few things that don't really work well in the game, but they were ne
 ![Sample Screenshot](https://raw.githubusercontent.com/DanielField/The-Dungeon-of-Evwiniir_Love2D/master/Screenshot.png)
 
 
-NOTE: Saving does not work on the compiled version. Not sure why... If anyone has a solution let me know. :)
+NOTE: Saving the settings does not work on the compiled version. Not sure why... If anyone has a solution let me know. :)
