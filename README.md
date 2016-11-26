@@ -1,4 +1,4 @@
-# The-Dungeon-of-Evwiniir_Love2D
+# The Dungeon of Evwiniir (Love2D)
 2D maze game written in lua with LOVE2D. It is written for touch screen, keyboard, and/or mouse input.
 
 This game was written for an assignment, and I just decided i'd upload it.
